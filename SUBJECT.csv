@@ -1,0 +1,29 @@
+SUBJECT_ID,SUBJECT_NAME,CREDIT,SUBJECT_SHORT_NAME,TOTAL,TOTAL_DSC
+21,Operating System,4,OS,TOTAL,Total Subjects
+22,Engineering Maths IV,4,EM IV,TOTAL,Total Subjects
+23,Relational Database Management System,4,RDBMS,TOTAL,Total Subjects
+24,Microprocessor,4,MP,TOTAL,Total Subjects
+25,Operating System Lab,2,OS Lab,TOTAL,Total Subjects
+26,Relational Database Management System Lab,2,RDBMS Lab,TOTAL,Total Subjects
+27,Microprocessor Lab,2,MP Lab,TOTAL,Total Subjects
+28,Open Elective I,3,OE I,TOTAL,Total Subjects
+1,Object Oriented Programing(Java),4,OOP,TOTAL,Total Subjects
+2,Engineering Maths III,4,EM III,TOTAL,Total Subjects
+3,Computer Organisation and Architecture,4,COA,TOTAL,Total Subjects
+4,Switch Theory and Logic Design,4,STLD,TOTAL,Total Subjects
+5,Data Structure,4,DS,TOTAL,Total Subjects
+6, Switch Theory and Logic Design Lab,2,STLD Lab,TOTAL,Total Subjects
+7,Object Oriented Programing Lab,2,OOP Lab,TOTAL,Total Subjects
+8,Data Structure Lab,2,DS Lab,TOTAL,Total Subjects
+9,Design and Analysis of Algorithm,4,DAA,TOTAL,Total Subjects
+10,Software Engineering,4,SE,TOTAL,Total Subjects
+11,Computer Graphics,4,CG,TOTAL,Total Subjects
+12,Formal Language and Automata Theory,4,FLAT,TOTAL,Total Subjects
+13,Data Communication,4,DC,TOTAL,Total Subjects
+14,Data Mining and Warehousing,4,DMW,TOTAL,Total Subjects
+15,Software Engineering and Project Management,4,SEPM,TOTAL,Total Subjects
+16,Internet Technology and Application,4,ITA,TOTAL,Total Subjects
+17,Software Engineering Lab,2,SE Lab,TOTAL,Total Subjects
+18,Design and Analysis of Algorithm Lab,2,DAA Lab,TOTAL,Total Subjects
+19,Internet Technology and Application Lab,2,ITA Lab,TOTAL,Total Subjects
+20,Computer Graphics Lab,2,CG Lab,TOTAL,Total Subjects
