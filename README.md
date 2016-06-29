@@ -272,6 +272,7 @@ SMO |	34 |	27 |	A |	0
 
 
 Classification Algorithm |	TP Rate |	FP Rate |	Accuracy |	ROC Area
+--- | --- | --- | --- | ---
 FT |	0.60 |	0.51 |	0.55 |	0.4974
 AD Tree |	0.47 |	0.59 | 0.53 |	0.547
 LAD Tree |	0.49 |	0.65 |	0.57 | 0.5858
